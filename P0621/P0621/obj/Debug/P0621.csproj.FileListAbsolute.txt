@@ -1,0 +1,7 @@
+C:\Unity_2\P0621\P0621\bin\Debug\P0621.exe.config
+C:\Unity_2\P0621\P0621\bin\Debug\P0621.exe
+C:\Unity_2\P0621\P0621\bin\Debug\P0621.pdb
+C:\Unity_2\P0621\P0621\obj\Debug\P0621.csproj.AssemblyReference.cache
+C:\Unity_2\P0621\P0621\obj\Debug\P0621.csproj.CoreCompileInputs.cache
+C:\Unity_2\P0621\P0621\obj\Debug\P0621.exe
+C:\Unity_2\P0621\P0621\obj\Debug\P0621.pdb
