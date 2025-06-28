@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\C-2-main\P0628\P0628\bin\Debug\P0628.exe.config
+C:\Users\Admin\Downloads\C-2-main\P0628\P0628\bin\Debug\P0628.exe
+C:\Users\Admin\Downloads\C-2-main\P0628\P0628\bin\Debug\P0628.pdb
+C:\Users\Admin\Downloads\C-2-main\P0628\P0628\obj\Debug\P0628.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\C-2-main\P0628\P0628\obj\Debug\P0628.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\C-2-main\P0628\P0628\obj\Debug\P0628.exe
+C:\Users\Admin\Downloads\C-2-main\P0628\P0628\obj\Debug\P0628.pdb

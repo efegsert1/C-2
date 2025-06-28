@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\C-2-main\\ifState\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE293D8-6979-D296-5955-16C4FF9642B8}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\c-2-main\\ifstate\\assets\\1. script\\changecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE293D8-6979-D296-5955-16C4FF9642B8}|Assembly-CSharp.csproj|solutionrelative:assets\\1. script\\changecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE293D8-6979-D296-5955-16C4FF9642B8}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\c-2-main\\ifstate\\assets\\1. script\\changecolorcricle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE293D8-6979-D296-5955-16C4FF9642B8}|Assembly-CSharp.csproj|solutionrelative:assets\\1. script\\changecolorcricle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeColorCriCle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\C-2-main\\ifState\\Assets\\1. Script\\ChangeColorCriCle.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Script\\ChangeColorCriCle.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\C-2-main\\ifState\\Assets\\1. Script\\ChangeColorCriCle.cs",
+              "RelativeToolTip": "Assets\\1. Script\\ChangeColorCriCle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:06:43.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangeColor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\C-2-main\\ifState\\Assets\\1. Script\\ChangeColor.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Script\\ChangeColor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\C-2-main\\ifState\\Assets\\1. Script\\ChangeColor.cs",
+              "RelativeToolTip": "Assets\\1. Script\\ChangeColor.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:20:30.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
