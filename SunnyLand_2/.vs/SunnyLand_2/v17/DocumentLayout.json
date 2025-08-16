@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\SunnyLand_2\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44285C67-FE96-F01D-588F-CE32419554D0}|Assembly-CSharp.csproj|c:\\sunnyland_2\\assets\\1. scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44285C67-FE96-F01D-588F-CE32419554D0}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\c-2-main\\sunnyland_2\\assets\\1. scripts\\playerfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44285C67-FE96-F01D-588F-CE32419554D0}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\playerfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44285C67-FE96-F01D-588F-CE32419554D0}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\c-2-main\\sunnyland_2\\assets\\1. scripts\\playercollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44285C67-FE96-F01D-588F-CE32419554D0}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\playercollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44285C67-FE96-F01D-588F-CE32419554D0}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\assets\\1. scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44285C67-FE96-F01D-588F-CE32419554D0}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44285C67-FE96-F01D-588F-CE32419554D0}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\assets\\1. scripts\\platfromignore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44285C67-FE96-F01D-588F-CE32419554D0}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\platfromignore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMove.cs",
-              "DocumentMoniker": "C:\\SunnyLand_2\\Assets\\1. Scripts\\PlayerMove.cs",
-              "RelativeDocumentMoniker": "Assets\\1. Scripts\\PlayerMove.cs",
-              "ToolTip": "C:\\SunnyLand_2\\Assets\\1. Scripts\\PlayerMove.cs",
-              "RelativeToolTip": "Assets\\1. Scripts\\PlayerMove.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAuwH0AAAAqAAAAAAAAAA==",
+              "Title": "PlayerFire.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\Assets\\1. Scripts\\PlayerFire.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\PlayerFire.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\Assets\\1. Scripts\\PlayerFire.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\PlayerFire.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T03:04:14.311Z",
+              "WhenOpened": "2025-08-16T04:07:54.297Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCollider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\Assets\\1. Scripts\\PlayerCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\PlayerCollider.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\Assets\\1. Scripts\\PlayerCollider.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\PlayerCollider.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:58:52.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlatFromIgnore.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\Assets\\1. Scripts\\PlatFromIgnore.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\PlatFromIgnore.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\Assets\\1. Scripts\\PlatFromIgnore.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\PlatFromIgnore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:06:41.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\Assets\\1. Scripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\C-2-main\\SunnyLand_2\\Assets\\1. Scripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\PlayerMove.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAnwGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T03:04:14.311Z"
             }
           ]
         }

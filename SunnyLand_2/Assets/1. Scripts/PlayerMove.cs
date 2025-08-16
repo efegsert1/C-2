@@ -1,6 +1,7 @@
 using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Rendering;
 
@@ -23,6 +24,12 @@ public class PlayerMove : MonoBehaviour
 
     //일반 변수 : 점프 카운트
     int jumpcount;
+
+    //사다리 변수 선언
+    public bool isLadder;
+
+    //올라가는 힘 변수
+    public float maxSpeed;
 
     void Start()
     {
@@ -89,11 +96,43 @@ public class PlayerMove : MonoBehaviour
             //SetBool("애니메이터에서 만들어놨던 변수명", true/ false); *실행을 시킬거면 true, 아니면 false
             anim.SetBool("isWalk", true);
         }
-
         //함수 호출 : Jump에 있는 내용이 모두 실행 된다.
         Jump();
-
     }
+
+    private void FixedUpdate()
+    {
+        //사다리를 타고있는 경우
+        if(isLadder)
+        {
+            //위, 아래의 키보드값 저장
+            float ver = Input.GetAxisRaw("Vertical");
+
+            //사다리니까 중력을 받으면 안되기 때문에 중력을 0으로 설정
+            rig.gravityScale = 0;
+
+            //올라가는 힘
+            rig.velocity = new Vector2(rig.velocity.x, ver * maxSpeed);
+
+            //위 아래로 움직이고 있다면
+            if (ver != 0)
+            {
+                //올라가는 애니메이션 활성화
+                anim.SetBool("isClimb", true);
+            }
+        }
+
+        //사다리를 타고 있지 않다면
+        else
+        {
+            //다시 중력값 설정 3
+            rig.gravityScale = 3f;
+        }
+    }
+
+
+
+
     //점프하는 함수 만들기
     void Jump()
     {
@@ -124,9 +163,28 @@ public class PlayerMove : MonoBehaviour
 
             //점프 애니메이션 멈춤
             anim.SetBool("isJump", false);
-
         }
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        //사다리 충돌 영역에 들어왔다면
+        if (collision.CompareTag("Ladder"))
+        {
+            //isLadder를 true로 설정
+            isLadder = true;
+        }
+    }
+
+    //충돌 영역에서 벗어남.
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ladder"))
+        {
+            isLadder = false;
+            anim.SetBool("isClimb", false);
+        }
+    }   
 
 
 }
