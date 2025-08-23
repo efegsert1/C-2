@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\sunny_land02_1\\assets\\1. scripts\\slimeenemymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\slimeenemymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\sunny_land02_1\\assets\\1. scripts\\playercollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\playercollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\assets\\1. scripts\\batenemymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\batenemymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\assets\\1. scripts\\bulletctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\bulletctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\assets\\1. scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\assets\\1. scripts\\platfromignore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\platfromignore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\assets\\1. scripts\\playerfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F86EC95-6009-54D0-F62E-6B83E2C05005}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\playerfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlimeEnemyMove.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\SlimeEnemyMove.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\SlimeEnemyMove.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\SlimeEnemyMove.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\SlimeEnemyMove.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T03:42:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCollider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\PlayerCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\PlayerCollider.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\PlayerCollider.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\PlayerCollider.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:57:30.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulletCtrl.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\BulletCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\BulletCtrl.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\BulletCtrl.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\BulletCtrl.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T01:45:52.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BatEnemyMove.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\BatEnemyMove.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\BatEnemyMove.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\BatEnemyMove.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\BatEnemyMove.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T01:24:30.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerFire.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\PlayerFire.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\PlayerFire.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\PlayerFire.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\PlayerFire.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:07:48.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlatFromIgnore.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\PlatFromIgnore.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\PlatFromIgnore.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\PlatFromIgnore.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\PlatFromIgnore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:06:15.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Sunny_Land02_1\\Assets\\1. Scripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\PlayerMove.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T03:02:56.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
